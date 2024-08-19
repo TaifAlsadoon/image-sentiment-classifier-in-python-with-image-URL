@@ -51,6 +51,38 @@ Here is how to get a URL of an image:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here are the steps to write the code and the output of the code:
 
 
