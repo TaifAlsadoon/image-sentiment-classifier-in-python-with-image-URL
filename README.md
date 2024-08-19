@@ -2,6 +2,10 @@
 
 
 The goal of this code is to create a simple image sentiment classifier that can determine whether an image has a positive, neutral, or negative sentiment based on the image's visual features.
+
+
+
+
 The key goals of this code are:
 1.Load and preprocess the image: The code takes an image URL as input and uses the requests library to fetch the image data. It then preprocesses the image by converting it to grayscale and applying edge detection using OpenCV.
 2.Extract a visual feature: The preprocessed image data is then used to calculate the total number of edge pixels in the image, which is used as a visual feature to represent the image.
