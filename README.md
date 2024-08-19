@@ -35,7 +35,32 @@ The key goals of this code are:
 
 Here is how to get a URL of an image:
 
+
 ![Image 15-02-1446 AH at 2 18 PM](https://github.com/user-attachments/assets/75ee1585-6322-49b7-857f-bd63998a9833)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here are the steps to write the code:
+
+
+
+
+
+
+
+
+
 
 
 
